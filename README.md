@@ -21,6 +21,7 @@
   <img align="center" alt="Wa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Wa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Wa-SASS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
 
   </div>
 
