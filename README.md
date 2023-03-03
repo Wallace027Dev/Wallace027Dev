@@ -1,33 +1,50 @@
-- 👋 Olá, eu sou o WALLACE...
-- 👀 Atuando como front-end, estudando back-end....
-- 🌱 Pois pretendo me formar um ótimo Frontend...
-- 💞️ Procuro fazer uma transição de carreira...
-- 📫 Você pode me encontrar no linkedin: https://www.linkedin.com/in/wallace-dev/!
+
+## Olá, eu sou o Wallace
+
+🧠 Estou aprendendo Fullstack Javascript...
+
+👯‍♀️ Procuro colaborar em uma empresa que me Dê oportunidades de evoluir...
+
+🤔 Procuro ajudar a resolver problemas das pessoas...
+
+📫 Entre em contato comigo nas seguintes redes...
 
 
-</br>
+## 🛠 Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-<div align="center">
+## Git Stats
+<div align="space-around">
   <a href="https://github.com/wallace027dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div>## Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wa-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Wa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Wa-SASS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
+Minha estrada pela tecnologia foi conturbada, entre idas e vindas.
 
-  </div>
+Sempre quis ir para o lado da Engenharia e em 2021 fiquei entre escolher Engenharia da Computação ou Engenharia Civil. Eu não sabia ao certo o que se fazia em Engenharia da Computação, mas eu sempre gostei de tecnologia, falando mais dessa parte de hardware. Por motivos financeiros eu tive que trancar a faculdade no começo do segundo semestre e em 2022 eu tive uma nova chance, mas em um curso Tecnólogo de Análise e Desenvolvimento de Sistemas. Foi aí que começou minha paixão com programação.
+
+Por eu já ter passado dificuldade com C na graduação de Engenharia, eu fiquei "irritado" por não entender a linguagem durante o curso de ADS, e aí decidi estudar com afinco lógica de programação, algorítmos e caí em desenvolvimento Web. Foi quando decidí comprar um curso da Staart, que me trouxe para esse lado do React e a partir daí decidi que seria Desenvolvedor Fullstack.
+
+Por mais que as vezes sejá difícil, eu entendo que faz parte da caminhada, e prometi pra mim mesmo que esse ano de 2023 eu iria me especializar em Programação Web, me desenvolver pessoalmente e conquistar meu primeiro emprego na área como desenvolvedor.
 
 
 
-<!---
-Wallace027Dev/Wallace027Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallace027dev.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wallace027dev/)
+
