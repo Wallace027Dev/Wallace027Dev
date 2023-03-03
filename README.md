@@ -27,11 +27,13 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Git Stats
-<div align="space-around">
+<div align="center">
   <a href="https://github.com/wallace027dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>## Sobre mim
+</div>
+  
+## Sobre mim
 
 Minha estrada pela tecnologia foi conturbada, entre idas e vindas.
 
