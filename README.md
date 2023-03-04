@@ -3,12 +3,16 @@
 
 🧠 Estou aprendendo Fullstack Javascript...
 
-👯‍♀️ Procuro colaborar em uma empresa que me Dê oportunidades de evoluir...
+👯‍♀️ Procuro colaborar em uma empresa que me dê oportunidades de evoluir...
 
 🤔 Procuro ajudar a resolver problemas das pessoas...
 
 📫 Entre em contato comigo nas seguintes redes...
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallace027dev.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wallace027dev/)
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,11 +46,3 @@ Sempre quis ir para o lado da Engenharia e em 2021 fiquei entre escolher Engenha
 Por eu já ter passado dificuldade com C na graduação de Engenharia, eu fiquei "irritado" por não entender a linguagem durante o curso de ADS, e aí decidi estudar com afinco lógica de programação, algorítmos e caí em desenvolvimento Web. Foi quando decidí comprar um curso da Staart, que me trouxe para esse lado do React e a partir daí decidi que seria Desenvolvedor Fullstack.
 
 Por mais que as vezes sejá difícil, eu entendo que faz parte da caminhada, e prometi pra mim mesmo que esse ano de 2023 eu iria me especializar em Programação Web, me desenvolver pessoalmente e conquistar meu primeiro emprego na área como desenvolvedor.
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallace027dev.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wallace027dev/)
-
