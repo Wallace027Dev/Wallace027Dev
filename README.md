@@ -39,7 +39,7 @@
   
 ## Sobre mim
 
-Minha estrada pela tecnologia foi conturbada, entre idas e vindas.
+Um apaixonado por tecnologia!
 
 Sempre quis ir para o lado da Engenharia e em 2021 fiquei entre escolher Engenharia da Computação ou Engenharia Civil. Eu não sabia ao certo o que se fazia em Engenharia da Computação, mas eu sempre gostei de tecnologia, falando mais dessa parte de hardware. Por motivos financeiros eu tive que trancar a faculdade no começo do segundo semestre e em 2022 eu tive uma nova chance, mas em um curso Tecnólogo de Análise e Desenvolvimento de Sistemas. Foi aí que começou minha paixão com programação.
 
