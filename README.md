@@ -21,6 +21,26 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <!-- Stats + Top Languages lado a lado -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
+  
+  <br><br>
+  
+  <!-- Streak separado abaixo -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wallace027dev&theme=tokyonight" height="180em" />
+  
+  <br><br>
+  
+  <!-- Trophies (linha inteira) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=wallace027dev&theme=tokyonight&margin-w=15&no-bg=true" />
+</div>
+
+---
+
 ## 🛠 Skills
 
 ### Frontend
@@ -45,26 +65,6 @@
 ### Fullstack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- Stats + Top Languages lado a lado -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
-  
-  <br><br>
-  
-  <!-- Streak separado abaixo -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wallace027dev&theme=tokyonight" height="180em" />
-  
-  <br><br>
-  
-  <!-- Trophies (linha inteira) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wallace027dev&theme=tokyonight&margin-w=15&no-bg=true" />
-</div>
 
 ---
 
