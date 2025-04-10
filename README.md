@@ -51,10 +51,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/wallace027dev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wallace027dev&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wallace027dev&theme=tokyonight&margin-w=15&no-bg=true" />
 </div>
 
 ---
