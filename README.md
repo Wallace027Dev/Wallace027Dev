@@ -12,8 +12,6 @@
 
 💡 Gosto de resolver problemas reais, transformar ideias em projetos e compartilhar conhecimento como instrutor de programação fullstack.
 
-📫 Fique à vontade para me chamar nas redes:
-
 ---
 
 ## 📈 GitHub Stats
@@ -76,6 +74,7 @@ Desde então, venho me dedicando diariamente para evoluir. Ensino programação,
 ✨ *"A jornada é difícil, mas cada linha de código é um passo mais perto do meu sonho."*
 
 ---
+📫 Fique à vontade para me chamar nas redes:
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallacevieira.dev/)
