@@ -14,11 +14,6 @@
 
 📫 Fique à vontade para me chamar nas redes:
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallacevieira.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wallace027dev/)
-
 ---
 
 ## 📈 GitHub Stats
@@ -79,3 +74,10 @@ Desde então, venho me dedicando diariamente para evoluir. Ensino programação,
 ---
 
 ✨ *"A jornada é difícil, mas cada linha de código é um passo mais perto do meu sonho."*
+
+---
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wallacevieira.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wallace027dev/)
