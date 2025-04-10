@@ -53,7 +53,7 @@
 <div align="center">
   <a href="https://github.com/wallace027dev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
