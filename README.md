@@ -1,16 +1,20 @@
 ## 👋 Olá, eu sou o Wallace!
 
-🧠 Desenvolvedor JavaScript Fullstack apaixonado por tecnologia, atualmente focado em me especializar no **desenvolvimento backend**.
+🧠 Sou um **Desenvolvedor Fullstack JavaScript**, apaixonado por tecnologia e por entender a fundo como as coisas funcionam — desde o **frontend** até o **backend**.  
+Tenho foco em me tornar um profissional completo em **desenvolvimento web**, mas meu grande sonho é atuar também com **sistemas embarcados** no futuro.
 
-🚀 Busco uma oportunidade em uma **grande empresa de tecnologia**, onde eu possa crescer, aprender com profissionais experientes e contribuir para soluções que impactam a vida das pessoas.
+🚀 Atualmente, busco uma oportunidade em uma **grande empresa de tecnologia**, onde eu possa crescer, aprender com profissionais experientes e contribuir para soluções reais que impactam a vida das pessoas.
 
-📚 Atualmente estudando:
-- Testes (unitários e integração) com Jest e Supertest
-- Nest.js
-- Arquitetura de software (limpa, modular e escalável)
-- C#, ASP.net, .NET, Entity Framework, etc.
+🎓 Estou cursando **Pós-Graduação em Engenharia de Software** pela **PUC-Rio**, aprimorando meus conhecimentos em arquitetura de software, engenharia de requisitos, qualidade e boas práticas de desenvolvimento.
 
-💡 Gosto de resolver problemas reais, transformar ideias em projetos e compartilhar conhecimento como instrutor de programação fullstack.
+📚 **Atualmente estudando e me aperfeiçoando em:**
+- Testes unitários e de integração com **Jest** e **Supertest**
+- **NestJS** e princípios de **arquitetura limpa** e **modular**
+- **C#, ASP.NET, .NET, Entity Framework**
+- **Python** e **PHP** (para ampliar minha visão de ecossistemas backend)
+
+💡 Gosto de **resolver problemas reais**, **transformar ideias em projetos** e **compartilhar conhecimento** como instrutor de programação fullstack.  
+Sou movido pela curiosidade, pela melhoria contínua e pelo prazer de aprender algo novo todos os dias.
 
 ---
 
