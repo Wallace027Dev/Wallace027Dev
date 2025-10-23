@@ -8,8 +8,7 @@ Tenho foco em me tornar um profissional completo em **desenvolvimento web**, mas
 🎓 Estou cursando **Pós-Graduação em Engenharia de Software** pela **PUC-Rio**, aprimorando meus conhecimentos em arquitetura de software, engenharia de requisitos, qualidade e boas práticas de desenvolvimento.
 
 📚 **Atualmente estudando e me aperfeiçoando em:**
-- Testes unitários e de integração com **Jest** e **Supertest**
-- **NestJS** e princípios de **arquitetura limpa** e **modular**
+- **Angular 19** e princípios de **arquitetura limpa** e **modular**
 - **C#, ASP.NET, .NET, Entity Framework**
 - **Python** e **PHP** (para ampliar minha visão de ecossistemas backend)
 
