@@ -3,6 +3,8 @@
 🧠 Sou um **Desenvolvedor Fullstack JavaScript**, apaixonado por tecnologia e por entender a fundo como as coisas funcionam — desde o **frontend** até o **backend**.  
 Tenho foco em me tornar um profissional completo em **desenvolvimento web**, mas meu grande sonho é atuar também com **sistemas embarcados** no futuro.
 
+🏫 Trabalho em uma empresa que mantém e desenvolve um novo ERP de gerenciamento escolar, contribuindo para a modernização de sistemas utilizados em diversas instituições de ensino.
+
 🚀 Atualmente, busco uma oportunidade em uma **grande empresa de tecnologia**, onde eu possa crescer, aprender com profissionais experientes e contribuir para soluções reais que impactam a vida das pessoas.
 
 🎓 Estou cursando **Pós-Graduação em Engenharia de Software** pela **PUC-Rio**, aprimorando meus conhecimentos em arquitetura de software, engenharia de requisitos, qualidade e boas práticas de desenvolvimento.
