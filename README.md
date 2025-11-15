@@ -23,14 +23,14 @@ Sou movido pela curiosidade, pela melhoria contínua e pelo prazer de aprender a
 
 <div align="center">
     
-  <!-- Streak separado acima -->
+  <!-- Streak (apenas público por padrão) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wallace027dev&theme=tokyonight" height="180em" />
   
   <br><br>
   
-  <!-- Stats + Top Languages lado a lado -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
+  <!-- Stats + Top Languages lado a lado (apenas repositórios/commits públicos) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wallace027dev&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace027dev&layout=compact&langs_count=6&theme=tokyonight&count_private=false" height="180em" />
   
   <br><br>
 
